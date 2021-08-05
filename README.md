@@ -10,8 +10,11 @@ Given a positive integer follow those simple rules:
 According to the conjecture, all numbers will end up in a loop of 4, 2, 1.
 
 My (simple) program creates a visual representation of the graph created by following this set of rules.
+
 For example: 
+
 Given the number 24, the program will create this graph:
+
 ![Graph](https://i.imgur.com/U8FQkwY.png)
 
 ## How to run
